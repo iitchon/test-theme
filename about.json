@@ -1,0 +1,19 @@
+{
+  "name": "Test",
+  "about_url": "This is a test",
+  "license_url": "test",
+   "color_schemes": {
+       "color scheme name": {
+          "primary": "#1F96E0",
+          "secondary": "#706565",
+          "tertiary": "000000",
+          "quaternary": "000000",
+          "header_background": "#292525",
+          "header_primary": "#FAF9F3",
+          "highlight": "#AF4799",
+          "danger": "#D23A2F",
+          "success": "#59AB34",
+          "love": "#FFE2F8"
+        }
+    }
+}
